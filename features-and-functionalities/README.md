@@ -40,13 +40,4 @@ To identify, visualize, and document the essential components that the backend s
 ## 🛠 Tools Used
 
 - [Draw.io](https://draw.io/) for diagram creation
-- Git & GitHub for version control and documentation hosting
 
-## 📤 How to View
-
-To view the diagram:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/alx-airbnb-project-documentation.git
-   cd alx-airbnb-project-documentation/features-and-functionalities
